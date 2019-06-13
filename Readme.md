@@ -74,7 +74,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 - [Windows](#Windows)
 - [XML](#XML)
 ## Audio and Music<span id='AudioandMusic'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/hajimehoshi/oto'>Oto</a></td><td>Audio and Music</td><td>378</td><td>25</td><td>137</td><td>7</td><td>Apache-2.0</td><td>Oto - A low-level library to play sound on multiple platforms.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/gordonklaus/portaudio'>PortAudio</a></td><td>Audio and Music</td><td>291</td><td>44</td><td>40</td><td>3</td><td>MIT</td><td>PortAudio - Go bindings for the PortAudio audio I/O library.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/go-music-theory/music-theory'>music-theory</a></td><td>Audio and Music</td><td>250</td><td>22</td><td>86</td><td>3</td><td>MIT</td><td>music-theory - Music theory models in Go.</td></tr>
@@ -97,7 +97,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 </table>
 
 ## Authentication and OAuth<span id='AuthenticationandOAuth'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/dgrijalva/jwt-go'>jwt-go</a></td><td>Authentication and OAuth</td><td>5603</td><td>542</td><td>316</td><td>42</td><td>MIT</td><td>jwt-go - Golang implementation of JSON Web Tokens (JWT).</td></tr>
 <tr><td>2</td><td><a href='https://github.com/golang/oauth2'>oauth2</a></td><td>Authentication and OAuth</td><td>2298</td><td>524</td><td>369</td><td>108</td><td>BSD-3-Clause</td><td>oauth2 - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine and App Engine support.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/markbates/goth'>goth</a></td><td>Authentication and OAuth</td><td>2185</td><td>256</td><td>473</td><td>79</td><td>MIT</td><td>goth - provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box.</td></tr>
@@ -126,7 +126,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 </table>
 
 ## Benchmarks<span id='Benchmarks'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/julienschmidt/go-http-routing-benchmark'>go-http-routing-benchmark</a></td><td>Benchmarks</td><td>1247</td><td>165</td><td>142</td><td>25</td><td>View license</td><td>go-http-routing-benchmark - Go HTTP request router benchmark and comparison.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/smallnest/go-web-framework-benchmark'>go-web-framework-benchmark</a></td><td>Benchmarks</td><td>965</td><td>118</td><td>134</td><td>10</td><td>Apache-2.0</td><td>go-web-framework-benchmark - Go web framework benchmark.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/atemerev/skynet'>skynet</a></td><td>Benchmarks</td><td>902</td><td>128</td><td>111</td><td>22</td><td></td><td>skynet - Skynet 1M threads microbenchmark.</td></tr>
@@ -143,7 +143,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 </table>
 
 ## Bot Building<span id='BotBuilding'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/Syfaro/telegram-bot-api'>telegram-bot-api</a></td><td>Bot Building</td><td>1535</td><td>259</td><td>328</td><td>47</td><td>MIT</td><td>telegram-bot-api - Simple and clean Telegram bot client.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/tucnak/telebot'>telebot</a></td><td>Bot Building</td><td>908</td><td>130</td><td>276</td><td>34</td><td>MIT</td><td>telebot - Telegram bot framework written in Go.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/go-chat-bot/bot'>go-chat-bot</a></td><td>Bot Building</td><td>445</td><td>118</td><td>336</td><td>26</td><td>MIT</td><td>go-chat-bot - IRC, Slack & Telegram bot written in Go.</td></tr>
@@ -161,13 +161,13 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 </table>
 
 ## CSS Preprocessors<span id='CSSPreprocessors'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/yosssi/gcss'>gcss</a></td><td>CSS Preprocessors</td><td>421</td><td>28</td><td>102</td><td>2</td><td>MIT</td><td>gcss - Pure Go CSS Preprocessor.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/wellington/go-libsass'>go-libsass</a></td><td>CSS Preprocessors</td><td>128</td><td>22</td><td>322</td><td>10</td><td>Apache-2.0</td><td>go-libsass - Go wrapper to the 100% Sass compatible libsass project.</td></tr>
 </table>
 
 ## Code Analysis<span id='CodeAnalysis'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/golang/lint'>GoLint</a></td><td>Code Analysis</td><td>3066</td><td>392</td><td>178</td><td>55</td><td>BSD-3-Clause</td><td>GoLint - Golint is a linter for Go source code.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/kisielk/errcheck'>errcheck</a></td><td>Code Analysis</td><td>1297</td><td>94</td><td>239</td><td>26</td><td>MIT</td><td>errcheck - Errcheck is a program for checking for unchecked errors in Go programs.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/davecheney/gcvis'>gcvis</a></td><td>Code Analysis</td><td>901</td><td>54</td><td>65</td><td>8</td><td>BSD-2-Clause</td><td>gcvis - Visualise Go program GC trace data in real time.</td></tr>
@@ -196,7 +196,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 </table>
 
 ## Command Line<span id='CommandLine'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/spf13/cobra'>cobra</a></td><td>Command Line</td><td>12314</td><td>1057</td><td>707</td><td>156</td><td>Apache-2.0</td><td>cobra - Commander for modern Go CLI interactions.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/urfave/cli'>urfave/cli</a></td><td>Command Line</td><td>10923</td><td>891</td><td>905</td><td>122</td><td>MIT</td><td>urfave/cli - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).</td></tr>
 <tr><td>3</td><td><a href='https://github.com/gizak/termui'>termui</a></td><td>Command Line</td><td>8719</td><td>538</td><td>384</td><td>44</td><td>MIT</td><td>termui - Go terminal dashboard based on termbox-go and inspired by blessed-contrib.</td></tr>
@@ -262,7 +262,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 </table>
 
 ## Conferences<span id='Conferences'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='http://www.capitalgolang.com'>Capital Go</a></td><td>Conferences</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>Capital Go - Washington, D.C., USA.</td></tr>
 <tr><td>2</td><td><a href='http://www.dotgo.eu'>dotGo</a></td><td>Conferences</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>dotGo - Paris, France.</td></tr>
 <tr><td>3</td><td><a href='http://gocon.connpass.com/'>GoCon</a></td><td>Conferences</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>GoCon - Tokyo, Japan.</td></tr>
@@ -283,7 +283,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 </table>
 
 ## Configuration<span id='Configuration'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/spf13/viper'>viper</a></td><td>Configuration</td><td>8756</td><td>831</td><td>250</td><td>82</td><td>MIT</td><td>viper - Go configuration with fangs.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/kelseyhightower/envconfig'>kelseyhightower/envconfig</a></td><td>Configuration</td><td>2306</td><td>200</td><td>128</td><td>40</td><td>MIT</td><td>kelseyhightower/envconfig - Go library for managing configuration data from environment variables.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/joho/godotenv'>godotenv</a></td><td>Configuration</td><td>2011</td><td>115</td><td>120</td><td>21</td><td>MIT</td><td>godotenv - Go port of Ruby's dotenv library (Loads environment variables from .env).</td></tr>
@@ -314,7 +314,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 </table>
 
 ## Continuous Integration<span id='ContinuousIntegration'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/drone/drone'>drone</a></td><td>Continuous Integration</td><td>18513</td><td>1822</td><td>3457</td><td>243</td><td>View license</td><td>drone - Drone is a Continuous Integration platform built on Docker, written in Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/mattn/goveralls'>goveralls</a></td><td>Continuous Integration</td><td>558</td><td>96</td><td>211</td><td>47</td><td></td><td>goveralls - Go integration for Coveralls.io continuous code coverage tracking system.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/go-playground/overalls'>overalls</a></td><td>Continuous Integration</td><td>96</td><td>26</td><td>68</td><td>10</td><td>MIT</td><td>overalls - Multi-Package go project coverprofile for tools like goveralls.</td></tr>
@@ -324,7 +324,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 </table>
 
 ## Data Structures<span id='DataStructures'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/emirpasic/gods'>gods</a></td><td>Data Structures</td><td>5854</td><td>632</td><td>316</td><td>18</td><td>View license</td><td>gods - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/Workiva/go-datastructures'>go-datastructures</a></td><td>Data Structures</td><td>5005</td><td>560</td><td>669</td><td>36</td><td>Apache-2.0</td><td>go-datastructures - Collection of useful, performant, and thread-safe data structures.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/tylertreat/BoomFilters'>boomfilters</a></td><td>Data Structures</td><td>1115</td><td>71</td><td>147</td><td>10</td><td>Apache-2.0</td><td>boomfilters - Probabilistic data structures for processing continuous, unbounded streams.</td></tr>
@@ -378,7 +378,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 </table>
 
 ## Database<span id='Database'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/prometheus/prometheus'>prometheus</a></td><td>Database</td><td>24507</td><td>3455</td><td>5771</td><td>340</td><td>Apache-2.0</td><td>prometheus - Monitoring system and time series database.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/pingcap/tidb'>tidb</a></td><td>Database</td><td>19090</td><td>2767</td><td>8468</td><td>265</td><td>Apache-2.0</td><td>tidb - TiDB is a distributed SQL database. Inspired by the design of Google F1.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/influxdb/influxdb'>influxdb</a></td><td>Database</td><td>16538</td><td>2357</td><td>30383</td><td>373</td><td>MIT</td><td>influxdb - Scalable datastore for metrics, events, and real-time analytics.</td></tr>
@@ -457,7 +457,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 </table>
 
 ## Database Drivers<span id='DatabaseDrivers'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/google/cayley'>cayley</a></td><td>Database Drivers</td><td>12553</td><td>1121</td><td>1316</td><td>74</td><td>Apache-2.0</td><td>cayley - Graph database with support for multiple backends.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/go-sql-driver/mysql'>go-sql-driver/mysql</a></td><td>Database Drivers</td><td>7726</td><td>1442</td><td>769</td><td>79</td><td>MPL-2.0</td><td>go-sql-driver/mysql - MySQL driver for Go.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/gomodule/redigo'>redigo</a></td><td>Database Drivers</td><td>6040</td><td>891</td><td>237</td><td>43</td><td>Apache-2.0</td><td>redigo - Redigo is a Go client for the Redis database.</td></tr>
@@ -573,7 +573,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Date and Time<span id='DateandTime'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/jinzhu/now'>now</a></td><td>Date and Time</td><td>2106</td><td>124</td><td>62</td><td>8</td><td>MIT</td><td>now - Now is a time toolkit for golang.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/araddon/dateparse'>dateparse</a></td><td>Date and Time</td><td>867</td><td>46</td><td>206</td><td>13</td><td>MIT</td><td>dateparse - Parse date's without knowing format in advance.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/uniplaces/carbon'>carbon</a></td><td>Date and Time</td><td>329</td><td>26</td><td>165</td><td>12</td><td>Apache-2.0</td><td>carbon - Simple Time extension with a lot of util methods, ported from PHP Carbon library.</td></tr>
@@ -593,7 +593,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Distributed Systems<span id='DistributedSystems'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/coreos/etcd/tree/master/raft'>raft</a></td><td>Distributed Systems</td><td>25336</td><td>5146</td><td>0</td><td>0</td><td></td><td>raft - Go implementation of the Raft consensus protocol, by CoreOS.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/go-kit/kit'>go-kit</a></td><td>Distributed Systems</td><td>13876</td><td>1457</td><td>1361</td><td>157</td><td>MIT</td><td>go-kit - Microservice toolkit with support for service discovery, load balancing, pluggable transports, request tracking, etc.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/grpc/grpc-go'>grpc-go</a></td><td>Distributed Systems</td><td>8502</td><td>1679</td><td>2930</td><td>184</td><td>Apache-2.0</td><td>grpc-go - The Go language implementation of gRPC. HTTP/2 based RPC.</td></tr>
@@ -633,7 +633,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## E-Books<span id='E-Books'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/dariubs/GoBooks'>GoBooks</a></td><td>E-Books</td><td>6600</td><td>864</td><td>106</td><td>35</td><td></td><td>GoBooks - A curated list of Go books.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/thewhitetulip/web-dev-golang-anti-textbook/'>Web Application with Go the Anti-Textbook</a></td><td>E-Books</td><td>2289</td><td>207</td><td>290</td><td>30</td><td></td><td>Web Application with Go the Anti-Textbook</td></tr>
 <tr><td>3</td><td><a href='https://github.com/thedevsir/gosuccinctly'>Go Succinctly</a></td><td>E-Books</td><td>10</td><td>1</td><td>4</td><td>1</td><td></td><td>Go Succinctly - in Persian.</td></tr>
@@ -651,7 +651,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Editor Plugins<span id='EditorPlugins'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/Microsoft/vscode-go'>vscode-go</a></td><td>Editor Plugins</td><td>4940</td><td>568</td><td>1553</td><td>207</td><td>View license</td><td>vscode-go - Extension for Visual Studio Code (VS Code) which provides support for the Go language.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/nsf/gocode'>gocode</a></td><td>Editor Plugins</td><td>4698</td><td>628</td><td>785</td><td>66</td><td>MIT</td><td>gocode - Autocompletion daemon for the Go programming language.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/DisposaBoy/GoSublime'>GoSublime</a></td><td>Editor Plugins</td><td>3212</td><td>283</td><td>1934</td><td>20</td><td>MIT</td><td>GoSublime - Golang plugin collection for the text editor SublimeText 3 providing code completion and other IDE-like features.</td></tr>
@@ -669,7 +669,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Email<span id='Email'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/mailhog/MailHog'>MailHog</a></td><td>Email</td><td>4931</td><td>321</td><td>278</td><td>21</td><td>MIT</td><td>MailHog - Email and SMTP testing with web and API interface.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/go-gomail/gomail/'>Gomail</a></td><td>Email</td><td>2276</td><td>307</td><td>90</td><td>7</td><td>MIT</td><td>Gomail - Gomail is a very simple and powerful package to send emails.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/matcornic/hermes'>hermes</a></td><td>Email</td><td>1575</td><td>109</td><td>77</td><td>12</td><td>Apache-2.0</td><td>hermes - Golang package that generates clean, responsive HTML e-mails.</td></tr>
@@ -686,7 +686,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Embeddable Scripting Languages<span id='EmbeddableScriptingLanguages'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/robertkrimen/otto'>otto</a></td><td>Embeddable Scripting Languages</td><td>4609</td><td>407</td><td>657</td><td>37</td><td>MIT</td><td>otto - JavaScript interpreter written in Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/yuin/gopher-lua'>gopher-lua</a></td><td>Embeddable Scripting Languages</td><td>2867</td><td>299</td><td>289</td><td>29</td><td>MIT</td><td>gopher-lua - Lua 5.1 VM and compiler written in Go.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/Shopify/go-lua'>go-lua</a></td><td>Embeddable Scripting Languages</td><td>1619</td><td>116</td><td>221</td><td>17</td><td>MIT</td><td>go-lua - Port of the Lua 5.2 VM to pure Go.</td></tr>
@@ -707,7 +707,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Error Handling<span id='ErrorHandling'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/pkg/errors'>errors</a></td><td>Error Handling</td><td>4630</td><td>312</td><td>152</td><td>37</td><td>BSD-2-Clause</td><td>errors - Package that provides simple error handling primitives.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/hashicorp/go-multierror'>go-multierror</a></td><td>Error Handling</td><td>702</td><td>44</td><td>35</td><td>9</td><td>MPL-2.0</td><td>go-multierror - Go (golang) package for representing a list of errors as a single error.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/joomcode/errorx'>errorx</a></td><td>Error Handling</td><td>540</td><td>10</td><td>73</td><td>5</td><td>MIT</td><td>errorx - A feature rich error package with stack traces, composition of errors and more.</td></tr>
@@ -717,7 +717,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Files<span id='Files'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/spf13/afero'>afero</a></td><td>Files</td><td>2146</td><td>218</td><td>218</td><td>32</td><td>Apache-2.0</td><td>afero - FileSystem Abstraction System for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/hhrutter/pdfcpu'>pdfcpu</a></td><td>Files</td><td>894</td><td>59</td><td>172</td><td>4</td><td>Apache-2.0</td><td>pdfcpu - PDF processor.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/rjeczalik/notify'>notify</a></td><td>Files</td><td>479</td><td>64</td><td>514</td><td>18</td><td>MIT</td><td>notify - File system event notification library with simple API, similar to os/signal.</td></tr>
@@ -734,7 +734,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Financial<span id='Financial'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/shopspring/decimal'>decimal</a></td><td>Financial</td><td>1516</td><td>228</td><td>116</td><td>33</td><td>View license</td><td>decimal - Arbitrary-precision fixed-point decimal numbers.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/rhymond/go-money'>go-money</a></td><td>Financial</td><td>595</td><td>37</td><td>92</td><td>9</td><td>MIT</td><td>go-money - Implementation of Fowler's Money pattern.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/FlashBoys/go-finance'>go-finance</a></td><td>Financial</td><td>538</td><td>48</td><td>49</td><td>6</td><td>MIT</td><td>go-finance - Comprehensive financial markets data in Go.</td></tr>
@@ -749,7 +749,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Forms<span id='Forms'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/justinas/nosurf'>nosurf</a></td><td>Forms</td><td>953</td><td>71</td><td>133</td><td>14</td><td>MIT</td><td>nosurf - CSRF protection middleware for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/mholt/binding'>binding</a></td><td>Forms</td><td>748</td><td>68</td><td>90</td><td>8</td><td>MIT</td><td>binding - Binds form and JSON data from net/http Request to struct.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/gorilla/csrf'>gorilla/csrf</a></td><td>Forms</td><td>412</td><td>67</td><td>85</td><td>17</td><td>BSD-3-Clause</td><td>gorilla/csrf - CSRF protection for Go web applications & services.</td></tr>
@@ -761,14 +761,14 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Functional<span id='Functional'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/tobyhede/go-underscore'>go-underscore</a></td><td>Functional</td><td>1053</td><td>57</td><td>83</td><td>4</td><td>View license</td><td>go-underscore - Useful collection of helpfully functional Go collection utilities.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/TeaEntityLab/fpGo'>fpGo</a></td><td>Functional</td><td>96</td><td>6</td><td>78</td><td>1</td><td>MIT</td><td>fpGo - Monad, Functional Programming features for Golang.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/seborama/fuego'>fuego</a></td><td>Functional</td><td>33</td><td>2</td><td>220</td><td>1</td><td>Apache-2.0</td><td>fuego - Functional Experiment in Go.</td></tr>
 </table>
 
 ## GUI<span id='GUI'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/andlabs/ui'>ui</a></td><td>GUI</td><td>6776</td><td>593</td><td>2781</td><td>10</td><td>View license</td><td>ui - Platform-native GUI library for Go. Cross platform.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/fyne-io/fyne'>fyne</a></td><td>GUI</td><td>5811</td><td>210</td><td>967</td><td>20</td><td>View license</td><td>fyne - Cross platform native GUIs designed for Go, rendered using EFL. Supports: Linux, macOS, Windows.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/therecipe/qt'>qt</a></td><td>GUI</td><td>5715</td><td>401</td><td>740</td><td>34</td><td>LGPL-3.0</td><td>qt - Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi).</td></tr>
@@ -789,7 +789,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Game Development<span id='GameDevelopment'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/name5566/leaf'>Leaf</a></td><td>Game Development</td><td>2951</td><td>823</td><td>327</td><td>7</td><td>Apache-2.0</td><td>Leaf - Lightweight game server framework.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/faiface/pixel'>Pixel</a></td><td>Game Development</td><td>2332</td><td>131</td><td>861</td><td>24</td><td>MIT</td><td>Pixel - Hand-crafted 2D game library in Go.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/hajimehoshi/ebiten'>Ebiten</a></td><td>Game Development</td><td>1715</td><td>117</td><td>4097</td><td>26</td><td>Apache-2.0</td><td>Ebiten - dead simple 2D game library in Go.</td></tr>
@@ -812,7 +812,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Generation and Generics<span id='GenerationandGenerics'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/ahmetalpbalkan/go-linq'>go-linq</a></td><td>Generation and Generics</td><td>1743</td><td>122</td><td>157</td><td>12</td><td>Apache-2.0</td><td>go-linq - .NET LINQ-like query methods for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/dave/jennifer'>jennifer</a></td><td>Generation and Generics</td><td>1228</td><td>54</td><td>217</td><td>6</td><td>MIT</td><td>jennifer - Generate arbitrary Go code without templates.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/clipperhouse/gen'>gen</a></td><td>Generation and Generics</td><td>1009</td><td>67</td><td>658</td><td>11</td><td>View license</td><td>gen - Code generation tool for ‘generics’-like functionality.</td></tr>
@@ -827,7 +827,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Geographic<span id='Geographic'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/tidwall/tile38'>Tile38</a></td><td>Geographic</td><td>6217</td><td>334</td><td>763</td><td>29</td><td>MIT</td><td>Tile38 - Geolocation DB with spatial index and realtime geofencing.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/golang/geo'>S2 geometry</a></td><td>Geographic</td><td>863</td><td>93</td><td>342</td><td>10</td><td>Apache-2.0</td><td>S2 geometry - S2 geometry library in Go.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/melihmucuk/geocache'>geocache</a></td><td>Geographic</td><td>105</td><td>8</td><td>5</td><td>1</td><td>MIT</td><td>geocache - In-memory cache that is suitable for geolocation based applications.</td></tr>
@@ -838,7 +838,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Go Compilers<span id='GoCompilers'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/gopherjs/gopherjs'>gopherjs</a></td><td>Go Compilers</td><td>8364</td><td>389</td><td>2070</td><td>44</td><td>BSD-2-Clause</td><td>gopherjs - Compiler from Go to JavaScript.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/go-llvm/llgo'>llgo</a></td><td>Go Compilers</td><td>982</td><td>83</td><td>1001</td><td>12</td><td>View license</td><td>llgo - LLVM-based compiler for Go.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/tardisgo/tardisgo'>tardisgo</a></td><td>Go Compilers</td><td>391</td><td>22</td><td>297</td><td>3</td><td>View license</td><td>tardisgo - Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler.</td></tr>
@@ -847,7 +847,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Go Generate Tools<span id='GoGenerateTools'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/cweill/gotests'>gotests</a></td><td>Go Generate Tools</td><td>2083</td><td>145</td><td>353</td><td>18</td><td>Apache-2.0</td><td>gotests - Generate Go tests from your source code.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/cheekybits/genny'>genny</a></td><td>Go Generate Tools</td><td>907</td><td>75</td><td>92</td><td>12</td><td>MIT</td><td>genny - Elegant generics for Go.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/opennota/re2dfa'>re2dfa</a></td><td>Go Generate Tools</td><td>168</td><td>11</td><td>72</td><td>1</td><td>GPL-3.0</td><td>re2dfa - Transform regular expressions into finite state machines and output Go source code.</td></tr>
@@ -859,7 +859,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Go Tools<span id='GoTools'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/go-swagger/go-swagger'>go-swagger</a></td><td>Go Tools</td><td>3733</td><td>611</td><td>2430</td><td>175</td><td>Apache-2.0</td><td>go-swagger - Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/TrueFurby/go-callvis'>go-callvis</a></td><td>Go Tools</td><td>1893</td><td>110</td><td>134</td><td>6</td><td>MIT</td><td>go-callvis - Visualize call graph of your Go program using dot format.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/kyoh86/richgo'>richgo</a></td><td>Go Tools</td><td>368</td><td>6</td><td>64</td><td>4</td><td>View license</td><td>richgo - Enrich go test outputs with text decorations.</td></tr>
@@ -874,7 +874,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Gophers<span id='Gophers'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/ashleymcnamara/gophers'>gophers</a></td><td>Gophers</td><td>1793</td><td>80</td><td>109</td><td>3</td><td>View license</td><td>gophers - Gopher artworks by Ashley McNamara.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/egonelbre/gophers'>gophers</a></td><td>Gophers</td><td>1528</td><td>67</td><td>159</td><td>1</td><td>CC0-1.0</td><td>gophers - Free gophers.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/MariaLetta/free-gophers-pack'>Free Gophers Pack</a></td><td>Gophers</td><td>1449</td><td>67</td><td>8</td><td>1</td><td>View license</td><td>Free Gophers Pack - Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster.</td></tr>
@@ -889,7 +889,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Goroutines<span id='Goroutines'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/benmanns/goworker'>goworker</a></td><td>Goroutines</td><td>2199</td><td>195</td><td>136</td><td>14</td><td>View license</td><td>goworker - goworker is a Go-based background worker.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/panjf2000/ants'>ants</a></td><td>Goroutines</td><td>1683</td><td>221</td><td>417</td><td>7</td><td>MIT</td><td>ants - A high-performance goroutine pool for golang.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/Jeffail/tunny'>tunny</a></td><td>Goroutines</td><td>1258</td><td>118</td><td>40</td><td>3</td><td>MIT</td><td>tunny - Goroutine pool for golang.</td></tr>
@@ -919,7 +919,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Images<span id='Images'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/h2non/imaginary'>imaginary</a></td><td>Images</td><td>2515</td><td>257</td><td>518</td><td>30</td><td>MIT</td><td>imaginary - Fast and simple HTTP microservice for image resizing.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/fogleman/ln'>ln</a></td><td>Images</td><td>2429</td><td>84</td><td>83</td><td>3</td><td>MIT</td><td>ln - 3D line art rendering in Go.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/disintegration/imaging'>imaging</a></td><td>Images</td><td>2407</td><td>222</td><td>175</td><td>14</td><td>MIT</td><td>imaging - Simple Go image processing package.</td></tr>
@@ -956,7 +956,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## IoT (Internet of Things)<span id='IoT(InternetofThings)'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/tibcosoftware/flogo'>flogo</a></td><td>IoT (Internet of Things)</td><td>1076</td><td>155</td><td>395</td><td>33</td><td>BSD-3-Clause</td><td>flogo - Project Flogo is an Open Source Framework for IoT Edge Apps & Integration.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/paypal/gatt'>gatt</a></td><td>IoT (Internet of Things)</td><td>801</td><td>205</td><td>104</td><td>15</td><td>BSD-3-Clause</td><td>gatt - Gatt is a Go package for building Bluetooth Low Energy peripherals.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/Mainflux/mainflux'>mainflux</a></td><td>IoT (Internet of Things)</td><td>533</td><td>187</td><td>674</td><td>32</td><td>Apache-2.0</td><td>mainflux - Industrial IoT Messaging and Device Management Server.</td></tr>
@@ -971,7 +971,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## JSON<span id='JSON'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/tidwall/gjson'>GJSON</a></td><td>JSON</td><td>4538</td><td>294</td><td>160</td><td>12</td><td>MIT</td><td>GJSON - Get a JSON value with one line of code.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/ChimeraCoder/gojson'>gojson</a></td><td>JSON</td><td>2003</td><td>135</td><td>105</td><td>12</td><td>View license</td><td>gojson - Automatically generate Go (golang) struct definitions from example JSON.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/elgs/gojq'>gojq</a></td><td>JSON</td><td>136</td><td>14</td><td>29</td><td>2</td><td>View license</td><td>gojq - JSON query in Golang.</td></tr>
@@ -989,7 +989,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Job Scheduler<span id='JobScheduler'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/roylee0704/gron'>gron</a></td><td>Job Scheduler</td><td>616</td><td>30</td><td>122</td><td>1</td><td>MIT</td><td>gron - Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/bamzi/jobrunner'>JobRunner</a></td><td>Job Scheduler</td><td>555</td><td>41</td><td>16</td><td>2</td><td>MIT</td><td>JobRunner - Smart and featureful cron job scheduler with job queuing and live monitoring built in.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/albrow/jobs'>jobs</a></td><td>Job Scheduler</td><td>448</td><td>33</td><td>166</td><td>6</td><td>MIT</td><td>jobs - Persistent and flexible background jobs library.</td></tr>
@@ -1001,7 +1001,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Logging<span id='Logging'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/Sirupsen/logrus'>logrus</a></td><td>Logging</td><td>11193</td><td>1335</td><td>1035</td><td>211</td><td>MIT</td><td>logrus - Structured logger for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/uber-go/zap'>zap</a></td><td>Logging</td><td>7038</td><td>529</td><td>391</td><td>51</td><td>View license</td><td>zap - Fast, structured, leveled logging in Go.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/davecgh/go-spew'>spew</a></td><td>Logging</td><td>3189</td><td>196</td><td>145</td><td>19</td><td>ISC</td><td>spew - Implements a deep pretty printer for Go data structures to aid in debugging.</td></tr>
@@ -1046,7 +1046,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Machine Learning<span id='MachineLearning'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/sjwhitworth/golearn'>GoLearn</a></td><td>Machine Learning</td><td>6551</td><td>896</td><td>497</td><td>46</td><td>MIT</td><td>GoLearn - General Machine Learning library for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/chewxy/gorgonia'>gorgonia</a></td><td>Machine Learning</td><td>2616</td><td>248</td><td>602</td><td>25</td><td>View license</td><td>gorgonia - graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/galeone/tfgo'>tfgo</a></td><td>Machine Learning</td><td>1150</td><td>76</td><td>81</td><td>8</td><td>Apache-2.0</td><td>tfgo - Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python.</td></tr>
@@ -1083,7 +1083,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Meetups<span id='Meetups'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://www.meetup.com/Brisbane-Golang-Meetup/'>Brisbane Gophers</a></td><td>Meetups</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>Brisbane Gophers</td></tr>
 <tr><td>2</td><td><a href='https://www.meetup.com/golanguagenewyork/'>Go Language NYC</a></td><td>Meetups</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>Go Language NYC</td></tr>
 <tr><td>3</td><td><a href='https://www.meetup.com/Go-London-User-Group/'>Go London User Group</a></td><td>Meetups</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>Go London User Group</td></tr>
@@ -1131,7 +1131,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Messaging<span id='Messaging'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/Shopify/sarama'>sarama</a></td><td>Messaging</td><td>4361</td><td>793</td><td>2116</td><td>134</td><td>MIT</td><td>sarama - Go library for Apache Kafka.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/centrifugal/centrifugo'>Centrifugo</a></td><td>Messaging</td><td>3585</td><td>317</td><td>995</td><td>17</td><td>MIT</td><td>Centrifugo - Real-time messaging (Websockets or SockJS) server in Go.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/appleboy/gorush'>gorush</a></td><td>Messaging</td><td>3580</td><td>368</td><td>684</td><td>17</td><td>MIT</td><td>gorush - Push notification server using APNs2 and google GCM.</td></tr>
@@ -1175,7 +1175,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Microsoft Office<span id='MicrosoftOffice'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/360EntSecGroup-Skylar/excelize'>excelize</a></td><td>Microsoft Office</td><td>4091</td><td>436</td><td>400</td><td>51</td><td>BSD-3-Clause</td><td>excelize - Golang library for reading and writing Microsoft Excel™ (XLSX) files.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/tealeg/xlsx'>xlsx</a></td><td>Microsoft Office</td><td>3240</td><td>553</td><td>784</td><td>74</td><td>BSD-3-Clause</td><td>xlsx - Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/plandem/xlsx'>xlsx</a></td><td>Microsoft Office</td><td>56</td><td>7</td><td>202</td><td>2</td><td>MIT</td><td>xlsx - Fast and safe way to read/update your existing Microsoft Excel files in Go programs.</td></tr>
@@ -1184,7 +1184,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Miscellaneous<span id='Miscellaneous'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/golang-standards/project-layout'>golang-standards/project-layout</a></td><td>Miscellaneous</td><td>7972</td><td>734</td><td>54</td><td>6</td><td>View license</td><td>golang-standards/project-layout - Set of common historical and emerging project layout patterns in the Go ecosystem.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/shirou/gopsutil'>gopsutil</a></td><td>Miscellaneous</td><td>3739</td><td>708</td><td>1331</td><td>144</td><td>View license</td><td>gopsutil - Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).</td></tr>
 <tr><td>3</td><td><a href='https://github.com/mholt/archiver'>archiver</a></td><td>Miscellaneous</td><td>2326</td><td>190</td><td>131</td><td>34</td><td>MIT</td><td>archiver - Library and command for making and extracting .zip and .tar.gz archives.</td></tr>
@@ -1245,7 +1245,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Natural Language Processing<span id='NaturalLanguageProcessing'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/jdkato/prose'>prose</a></td><td>Natural Language Processing</td><td>2010</td><td>95</td><td>212</td><td>6</td><td>MIT</td><td>prose - Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/nicksnyder/go-i18n/'>go-i18n</a></td><td>Natural Language Processing</td><td>1033</td><td>120</td><td>315</td><td>31</td><td>MIT</td><td>go-i18n - Package and an accompanying tool to work with localized text.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/go-ego/gse'>gse</a></td><td>Natural Language Processing</td><td>1026</td><td>77</td><td>254</td><td>2</td><td>Apache-2.0</td><td>gse - Go efficient text segmentation; support english, chinese, japanese and other.</td></tr>
@@ -1283,7 +1283,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Networking<span id='Networking'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/xtaci/kcptun'>kcptun</a></td><td>Networking</td><td>10412</td><td>2043</td><td>227</td><td>7</td><td>MIT</td><td>kcptun - Extremely simple & fast udp tunnel based on KCP protocol.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/valyala/fasthttp'>fasthttp</a></td><td>Networking</td><td>8885</td><td>791</td><td>1155</td><td>60</td><td>MIT</td><td>fasthttp - Package fasthttp is a fast HTTP implementation for Go, up to 10 times faster than net/http.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/miekg/dns'>dns</a></td><td>Networking</td><td>3676</td><td>625</td><td>3896</td><td>152</td><td>View license</td><td>dns - Go library for working with DNS.</td></tr>
@@ -1346,7 +1346,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## ORM<span id='ORM'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/astaxie/beego/tree/master/orm'>beego orm</a></td><td>ORM</td><td>20758</td><td>4216</td><td>0</td><td>0</td><td></td><td>beego orm - Powerful orm framework for go. Support: pq/mysql/sqlite3.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/jinzhu/gorm'>GORM</a></td><td>ORM</td><td>13882</td><td>1565</td><td>1471</td><td>187</td><td>MIT</td><td>GORM - The fantastic ORM library for Golang, aims to be developer friendly.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/go-xorm/xorm'>Xorm</a></td><td>ORM</td><td>4934</td><td>626</td><td>1317</td><td>85</td><td>BSD-3-Clause</td><td>Xorm - Simple and powerful ORM for Go.</td></tr>
@@ -1367,7 +1367,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## OpenGL<span id='OpenGL'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/go-gl/glfw'>glfw</a></td><td>OpenGL</td><td>702</td><td>90</td><td>291</td><td>24</td><td>BSD-3-Clause</td><td>glfw - Go bindings for GLFW 3.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/go-gl/gl'>gl</a></td><td>OpenGL</td><td>626</td><td>43</td><td>82</td><td>12</td><td>MIT</td><td>gl - Go bindings for OpenGL (generated via glow).</td></tr>
 <tr><td>3</td><td><a href='https://github.com/go-gl/mathgl'>mathgl</a></td><td>OpenGL</td><td>286</td><td>41</td><td>453</td><td>15</td><td>BSD-3-Clause</td><td>mathgl - Pure Go math package specialized for 3D math, with inspiration from GLM.</td></tr>
@@ -1376,7 +1376,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Package Management<span id='PackageManagement'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/golang/dep'>dep</a></td><td>Package Management</td><td>12280</td><td>1003</td><td>3318</td><td>179</td><td>View license</td><td>dep - Go dependency tool.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/Masterminds/glide'>glide</a></td><td>Package Management</td><td>7699</td><td>513</td><td>1083</td><td>74</td><td>View license</td><td>glide - Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/tools/godep'>godep</a></td><td>Package Management</td><td>5650</td><td>482</td><td>328</td><td>40</td><td>View license</td><td>godep - dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.</td></tr>
@@ -1396,7 +1396,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Query Language<span id='QueryLanguage'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/graphql-go/graphql'>graphql-go</a></td><td>Query Language</td><td>4960</td><td>435</td><td>879</td><td>65</td><td>MIT</td><td>graphql-go - Implementation of GraphQL for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/neelance/graphql-go'>graphql</a></td><td>Query Language</td><td>2664</td><td>257</td><td>429</td><td>42</td><td>BSD-2-Clause</td><td>graphql - GraphQL server with a focus on ease of use.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/thedevsaddam/gojsonq'>gojsonq</a></td><td>Query Language</td><td>820</td><td>48</td><td>94</td><td>6</td><td>MIT</td><td>gojsonq - A simple Go package to Query over JSON Data.</td></tr>
@@ -1407,7 +1407,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Resource Embedding<span id='ResourceEmbedding'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/rakyll/statik'>statik</a></td><td>Resource Embedding</td><td>1983</td><td>118</td><td>82</td><td>19</td><td>Apache-2.0</td><td>statik - Embeds static files into a Go executable.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/gobuffalo/packr'>packr</a></td><td>Resource Embedding</td><td>1959</td><td>98</td><td>285</td><td>34</td><td>MIT</td><td>packr - The simple and easy way to embed static files into Go binaries.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/GeertJohan/go.rice'>go.rice</a></td><td>Resource Embedding</td><td>1602</td><td>95</td><td>239</td><td>30</td><td>BSD-2-Clause</td><td>go.rice - go.rice is a Go package that makes working with resources such as html,js,css,images and templates very easy.</td></tr>
@@ -1421,7 +1421,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Science and Data Analysis<span id='ScienceandDataAnalysis'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/gonum/gonum'>gonum</a></td><td>Science and Data Analysis</td><td>2784</td><td>211</td><td>5383</td><td>75</td><td>BSD-3-Clause</td><td>gonum - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/montanaflynn/stats'>stats</a></td><td>Science and Data Analysis</td><td>1319</td><td>90</td><td>211</td><td>17</td><td>MIT</td><td>stats - Statistics package with common functions missing from the Golang standard library.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/nytlabs/streamtools'>streamtools</a></td><td>Science and Data Analysis</td><td>1313</td><td>111</td><td>1620</td><td>13</td><td>Apache-2.0</td><td>streamtools - general purpose, graphical tool for dealing with streams of data.</td></tr>
@@ -1455,7 +1455,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Security<span id='Security'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/xenolf/lego'>lego</a></td><td>Security</td><td>3384</td><td>438</td><td>814</td><td>161</td><td>MIT</td><td>lego - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).</td></tr>
 <tr><td>2</td><td><a href='https://github.com/Ullaakut/cameradar'>Cameradar</a></td><td>Security</td><td>1755</td><td>234</td><td>156</td><td>5</td><td>MIT</td><td>Cameradar - Tool and library to remotely hack RTSP streams from surveillance cameras.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/hlandau/acme'>acmetool</a></td><td>Security</td><td>1687</td><td>94</td><td>353</td><td>22</td><td></td><td>acmetool - ACME (Let's Encrypt) client tool with automatic renewal.</td></tr>
@@ -1479,7 +1479,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Serialization<span id='Serialization'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/json-iterator/go'>jsoniter</a></td><td>Serialization</td><td>5145</td><td>443</td><td>748</td><td>30</td><td>MIT</td><td>jsoniter - High-performance 100% compatible drop-in replacement of "encoding/json".</td></tr>
 <tr><td>2</td><td><a href='https://github.com/golang/protobuf'>goprotobuf</a></td><td>Serialization</td><td>4739</td><td>978</td><td>654</td><td>79</td><td>BSD-3-Clause</td><td>goprotobuf - Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/gogo/protobuf'>gogoprotobuf</a></td><td>Serialization</td><td>2766</td><td>370</td><td>1048</td><td>55</td><td>View license</td><td>gogoprotobuf - Protocol Buffers for Go with Gadgets.</td></tr>
@@ -1498,7 +1498,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Server Applications<span id='ServerApplications'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/coreos/etcd'>etcd</a></td><td>Server Applications</td><td>25336</td><td>5146</td><td>15203</td><td>498</td><td>Apache-2.0</td><td>etcd - Highly-available key value store for shared configuration and service discovery.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/mholt/caddy'>Caddy</a></td><td>Server Applications</td><td>22229</td><td>1754</td><td>2354</td><td>255</td><td>Apache-2.0</td><td>Caddy - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/minio/minio'>minio</a></td><td>Server Applications</td><td>16523</td><td>1545</td><td>5767</td><td>159</td><td>Apache-2.0</td><td>minio - Minio is a distributed object storage server.</td></tr>
@@ -1519,7 +1519,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Software Packages<span id='SoftwarePackages'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/kubernetes/kubernetes'>kubernetes</a></td><td>Software Packages</td><td>53876</td><td>18656</td><td>79308</td><td>2153</td><td>Apache-2.0</td><td>kubernetes - Container Cluster Manager from Google.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/moby/moby'>Moby</a></td><td>Software Packages</td><td>53688</td><td>15489</td><td>36953</td><td>1816</td><td>Apache-2.0</td><td>Moby - Collaborative project for the container ecosystem to assemble container-based systems.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/containous/traefik'>traefik</a></td><td>Software Packages</td><td>22829</td><td>2343</td><td>2945</td><td>366</td><td>MIT</td><td>traefik - Reverse proxy and load balancer with support for multiple backends.</td></tr>
@@ -1626,7 +1626,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Template Engines<span id='TemplateEngines'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/jung-kurt/gofpdf'>gofpdf</a></td><td>Template Engines</td><td>2938</td><td>267</td><td>478</td><td>46</td><td>MIT</td><td>gofpdf - PDF document generator with high level support for text, drawing and images.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/flosch/pongo2'>pongo2</a></td><td>Template Engines</td><td>1458</td><td>144</td><td>469</td><td>30</td><td>MIT</td><td>pongo2 - Django-like template-engine for Go.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/valyala/quicktemplate'>quicktemplate</a></td><td>Template Engines</td><td>1338</td><td>75</td><td>237</td><td>7</td><td>MIT</td><td>quicktemplate - Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it.</td></tr>
@@ -1649,7 +1649,7 @@ pq - Pure Go Postgres driver for database/sql.
 </table>
 
 ## Testing<span id='Testing'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/stretchr/testify'>Testify</a></td><td>Testing</td><td>7630</td><td>685</td><td>571</td><td>132</td><td>MIT</td><td>Testify - Sacred extension to the standard go testing package.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/smartystreets/goconvey/'>GoConvey</a></td><td>Testing</td><td>4674</td><td>351</td><td>1072</td><td>69</td><td>View license</td><td>GoConvey - BDD-style framework with web UI and live reload.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/knq/chromedp'>chromedp</a></td><td>Testing</td><td>3320</td><td>280</td><td>403</td><td>11</td><td>MIT</td><td>chromedp - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.</td></tr>
@@ -1793,7 +1793,7 @@ wstest - Websocket client for unit-testing a websocket http.Handler.
 </table>
 
 ## Text Processing<span id='TextProcessing'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/asciimoo/colly'>colly</a></td><td>Text Processing</td><td>7862</td><td>610</td><td>443</td><td>57</td><td>Apache-2.0</td><td>colly - Fast and Elegant Scraping Framework for Gophers.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/PuerkitoBio/goquery'>GoQuery</a></td><td>Text Processing</td><td>7313</td><td>619</td><td>276</td><td>24</td><td>BSD-3-Clause</td><td>GoQuery - GoQuery brings a syntax and a set of features similar to jQuery to the Go language.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/russross/blackfriday'>blackfriday</a></td><td>Text Processing</td><td>3775</td><td>485</td><td>424</td><td>54</td><td>View license</td><td>blackfriday - Markdown processor in Go.</td></tr>
@@ -1909,7 +1909,7 @@ xurls - Extract urls from text.
 </table>
 
 ## Third-party APIs<span id='Third-partyAPIs'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/aws/aws-sdk-go'>aws-sdk-go</a></td><td>Third-party APIs</td><td>4810</td><td>1177</td><td>3616</td><td>188</td><td>Apache-2.0</td><td>aws-sdk-go - The official AWS SDK for the Go programming language.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/google/go-github'>github</a></td><td>Third-party APIs</td><td>4625</td><td>1066</td><td>989</td><td>260</td><td>BSD-3-Clause</td><td>github - Go library for accessing the GitHub REST API v3.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/nlopes/slack'>slack</a></td><td>Third-party APIs</td><td>2287</td><td>523</td><td>673</td><td>152</td><td>BSD-2-Clause</td><td>slack - Slack API in Go.</td></tr>
@@ -1984,7 +1984,7 @@ xurls - Extract urls from text.
 </table>
 
 ## Twitter<span id='Twitter'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://twitter.com/golang'>@golang</a></td><td>Twitter</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>@golang</td></tr>
 <tr><td>2</td><td><a href='https://twitter.com/golang_news'>@golang_news</a></td><td>Twitter</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>@golang_news</td></tr>
 <tr><td>3</td><td><a href='https://twitter.com/golangch'>@golangch</a></td><td>Twitter</td><td>0</td><td>0</td><td>0</td><td>0</td><td></td><td>@golangch</td></tr>
@@ -1993,7 +1993,7 @@ xurls - Extract urls from text.
 </table>
 
 ## UUID<span id='UUID'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/oklog/ulid'>ulid</a></td><td>UUID</td><td>1637</td><td>59</td><td>106</td><td>11</td><td>Apache-2.0</td><td>ulid - Go implementation of ULID (Universally Unique Lexicographically Sortable Identifier).</td></tr>
 <tr><td>2</td><td><a href='https://github.com/gofrs/uuid'>uuid</a></td><td>UUID</td><td>536</td><td>40</td><td>225</td><td>31</td><td>MIT</td><td>uuid - Implementation of Universally Unique Identifier (UUID). Supports both creation and parsing of UUIDs. Actively maintained fork of satori uuid.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/edwingeng/wuid'>wuid</a></td><td>UUID</td><td>262</td><td>26</td><td>93</td><td>2</td><td>BSD-3-Clause</td><td>wuid - An extremely fast unique number generator, 10-135 times faster than UUID.</td></tr>
@@ -2002,7 +2002,7 @@ xurls - Extract urls from text.
 </table>
 
 ## Utilities<span id='Utilities'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/junegunn/fzf'>fzf</a></td><td>Utilities</td><td>22026</td><td>851</td><td>1610</td><td>102</td><td>MIT</td><td>fzf - Command-line fuzzy finder written in Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/github/hub'>hub</a></td><td>Utilities</td><td>16355</td><td>1649</td><td>2934</td><td>187</td><td>MIT</td><td>hub - wrap git commands with additional functionality to interact with github from the terminal.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/derekparker/delve'>delve</a></td><td>Utilities</td><td>11560</td><td>1019</td><td>1427</td><td>93</td><td>MIT</td><td>delve - Go debugger.</td></tr>
@@ -2124,7 +2124,7 @@ xurls - Extract urls from text.
 </table>
 
 ## Validation<span id='Validation'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/asaskevich/govalidator'>govalidator</a></td><td>Validation</td><td>3430</td><td>355</td><td>460</td><td>69</td><td>MIT</td><td>govalidator - Validators and sanitizers for strings, numerics, slices and structs.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/go-playground/validator'>validator</a></td><td>Validation</td><td>3189</td><td>276</td><td>740</td><td>52</td><td>MIT</td><td>validator - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/go-ozzo/ozzo-validation'>ozzo-validation</a></td><td>Validation</td><td>988</td><td>67</td><td>61</td><td>13</td><td>MIT</td><td>ozzo-validation - Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags.</td></tr>
@@ -2136,7 +2136,7 @@ xurls - Extract urls from text.
 </table>
 
 ## Version Control<span id='VersionControl'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/src-d/go-git'>go-git</a></td><td>Version Control</td><td>4028</td><td>421</td><td>1477</td><td>108</td><td>Apache-2.0</td><td>go-git - highly extensible Git implementation in pure Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/libgit2/git2go'>git2go</a></td><td>Version Control</td><td>1327</td><td>231</td><td>836</td><td>77</td><td>MIT</td><td>git2go - Go bindings for libgit2.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/src-d/hercules'>hercules</a></td><td>Version Control</td><td>473</td><td>49</td><td>899</td><td>17</td><td>View license</td><td>hercules - gaining advanced insights from Git repository history.</td></tr>
@@ -2146,7 +2146,7 @@ xurls - Extract urls from text.
 </table>
 
 ## Video<span id='Video'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/giorgisio/goav'>goav</a></td><td>Video</td><td>728</td><td>146</td><td>53</td><td>4</td><td>MIT</td><td>goav - Comphrensive Go bindings for FFmpeg.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/3d0c/gmf'>gmf</a></td><td>Video</td><td>506</td><td>107</td><td>220</td><td>24</td><td>MIT</td><td>gmf - Go bindings for FFmpeg av* libraries.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/asticode/go-astits'>go-astits</a></td><td>Video</td><td>256</td><td>20</td><td>50</td><td>2</td><td>MIT</td><td>go-astits - Parse and demux MPEG Transport Streams (.ts) natively in GO.</td></tr>
@@ -2159,7 +2159,7 @@ xurls - Extract urls from text.
 </table>
 
 ## Web Frameworks<span id='WebFrameworks'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/gin-gonic/gin'>Gin</a></td><td>Web Frameworks</td><td>28028</td><td>3234</td><td>1265</td><td>218</td><td>MIT</td><td>Gin - Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/astaxie/beego'>Beego</a></td><td>Web Frameworks</td><td>20757</td><td>4216</td><td>3435</td><td>298</td><td>View license</td><td>Beego - beego is an open-source, high-performance web framework for the Go programming language.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/labstack/echo'>Echo</a></td><td>Web Frameworks</td><td>14153</td><td>1276</td><td>1290</td><td>140</td><td>MIT</td><td>Echo - High performance, minimalist Go web framework.</td></tr>
@@ -2243,7 +2243,7 @@ xurls - Extract urls from text.
 </table>
 
 ## Websites<span id='Websites'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/golang/go/wiki/Projects'>Go Projects</a></td><td>Websites</td><td>59294</td><td>8196</td><td>0</td><td>0</td><td></td><td>Go Projects - List of projects on the Go community wiki.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/astaxie/build-web-application-with-golang'>Build web application with Golang</a></td><td>Websites</td><td>30541</td><td>8449</td><td>5080</td><td>329</td><td>BSD-3-Clause</td><td>Build web application with Golang - Golang ebook intro how to build a web app with golang.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/bayandin/awesome-awesomeness'>awesome-awesomeness</a></td><td>Websites</td><td>24390</td><td>3044</td><td>478</td><td>192</td><td></td><td>awesome-awesomeness - List of other amazingly awesome lists.</td></tr>
@@ -2295,14 +2295,14 @@ xurls - Extract urls from text.
 </table>
 
 ## Windows<span id='Windows'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/go-ole/go-ole'>go-ole</a></td><td>Windows</td><td>534</td><td>95</td><td>339</td><td>22</td><td>MIT</td><td>go-ole - Win32 OLE implementation for golang.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/gonutz/d3d9'>d3d9</a></td><td>Windows</td><td>86</td><td>4</td><td>81</td><td>1</td><td>MIT</td><td>d3d9 - Go bindings for Direct3D9.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/MonaxGT/gosddl'>gosddl</a></td><td>Windows</td><td>1</td><td>0</td><td>25</td><td>2</td><td>Apache-2.0</td><td>gosddl - Converter from SDDL-string to user-friendly JSON. SDDL consist of four part: Owner, Primary Group, DACL, SACL.</td></tr>
 </table>
 
 ## XML<span id='XML'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License<th>Description</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th><th>Description</th></tr>
 <tr><td>1</td><td><a href='https://github.com/miku/zek'>zek</a></td><td>XML</td><td>216</td><td>14</td><td>189</td><td>2</td><td>GPL-3.0</td><td>zek - Generate a Go struct from XML.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/antchfx/xquery'>xquery</a></td><td>XML</td><td>145</td><td>24</td><td>70</td><td>3</td><td>MIT</td><td>xquery - XQuery lets you extract data from HTML/XML documents using XPath expression.</td></tr>
 <tr><td>3</td><td><a href='https://github.com/antchfx/xpath'>xpath</a></td><td>XML</td><td>143</td><td>20</td><td>110</td><td>5</td><td>MIT</td><td>xpath - XPath package for Go.</td></tr>
