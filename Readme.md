@@ -1,5 +1,5 @@
 # agos
-Awesome go projects sorter.  Collect Github projects information and sorted by star.
+Awesome go projects sorter.  Collect Github projects (collected by [Awesome go](https://awesome-go.com/))information and sorted by star.
 
 # Awesome go
 - [Audio and Music](#AudioandMusic)
