@@ -71,7 +71,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 - [Windows](#Windows)
 - [XML](#XML)
 ## Audio and Music<span id='AudioandMusic'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/hajimehoshi/oto'>Oto</a></td><td>Audio and Music</td><td>378</td><td>25</td><td>137</td><td>7</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>Oto - A low-level library to play sound on multiple platforms.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/gordonklaus/portaudio'>PortAudio</a></td><td>Audio and Music</td><td>291</td><td>44</td><td>40</td><td>3</td><td>MIT</td></tr>
@@ -115,7 +115,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Authentication and OAuth<span id='AuthenticationandOAuth'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/dgrijalva/jwt-go'>jwt-go</a></td><td>Authentication and OAuth</td><td>5603</td><td>542</td><td>316</td><td>42</td><td>MIT</td></tr>
 <tr><td colspan='8'>jwt-go - Golang implementation of JSON Web Tokens (JWT).</td></tr>
 <tr><td>2</td><td><a href='https://github.com/golang/oauth2'>oauth2</a></td><td>Authentication and OAuth</td><td>2298</td><td>524</td><td>369</td><td>108</td><td>BSD-3-Clause</td></tr>
@@ -171,7 +171,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Benchmarks<span id='Benchmarks'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/julienschmidt/go-http-routing-benchmark'>go-http-routing-benchmark</a></td><td>Benchmarks</td><td>1247</td><td>165</td><td>142</td><td>25</td><td>View license</td></tr>
 <tr><td colspan='8'>go-http-routing-benchmark - Go HTTP request router benchmark and comparison.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/smallnest/go-web-framework-benchmark'>go-web-framework-benchmark</a></td><td>Benchmarks</td><td>965</td><td>118</td><td>134</td><td>10</td><td>Apache-2.0</td></tr>
@@ -203,7 +203,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Bot Building<span id='BotBuilding'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/Syfaro/telegram-bot-api'>telegram-bot-api</a></td><td>Bot Building</td><td>1535</td><td>259</td><td>328</td><td>47</td><td>MIT</td></tr>
 <tr><td colspan='8'>telegram-bot-api - Simple and clean Telegram bot client.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/tucnak/telebot'>telebot</a></td><td>Bot Building</td><td>908</td><td>130</td><td>276</td><td>34</td><td>MIT</td></tr>
@@ -237,7 +237,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## CSS Preprocessors<span id='CSSPreprocessors'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/yosssi/gcss'>gcss</a></td><td>CSS Preprocessors</td><td>421</td><td>28</td><td>102</td><td>2</td><td>MIT</td></tr>
 <tr><td colspan='8'>gcss - Pure Go CSS Preprocessor.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/wellington/go-libsass'>go-libsass</a></td><td>CSS Preprocessors</td><td>128</td><td>22</td><td>322</td><td>10</td><td>Apache-2.0</td></tr>
@@ -247,7 +247,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Code Analysis<span id='CodeAnalysis'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/golang/lint'>GoLint</a></td><td>Code Analysis</td><td>3066</td><td>392</td><td>178</td><td>55</td><td>BSD-3-Clause</td></tr>
 <tr><td colspan='8'>GoLint - Golint is a linter for Go source code.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/kisielk/errcheck'>errcheck</a></td><td>Code Analysis</td><td>1297</td><td>94</td><td>239</td><td>26</td><td>MIT</td></tr>
@@ -293,7 +293,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Command Line<span id='CommandLine'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/spf13/cobra'>cobra</a></td><td>Command Line</td><td>12314</td><td>1057</td><td>707</td><td>156</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>cobra - Commander for modern Go CLI interactions.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/urfave/cli'>urfave/cli</a></td><td>Command Line</td><td>10923</td><td>891</td><td>905</td><td>122</td><td>MIT</td></tr>
@@ -421,7 +421,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Configuration<span id='Configuration'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/spf13/viper'>viper</a></td><td>Configuration</td><td>8756</td><td>831</td><td>250</td><td>82</td><td>MIT</td></tr>
 <tr><td colspan='8'>viper - Go configuration with fangs.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/kelseyhightower/envconfig'>kelseyhightower/envconfig</a></td><td>Configuration</td><td>2306</td><td>200</td><td>128</td><td>40</td><td>MIT</td></tr>
@@ -481,7 +481,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Continuous Integration<span id='ContinuousIntegration'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/drone/drone'>drone</a></td><td>Continuous Integration</td><td>18513</td><td>1822</td><td>3457</td><td>243</td><td>View license</td></tr>
 <tr><td colspan='8'>drone - Drone is a Continuous Integration platform built on Docker, written in Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/mattn/goveralls'>goveralls</a></td><td>Continuous Integration</td><td>558</td><td>96</td><td>211</td><td>47</td><td></td></tr>
@@ -499,7 +499,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Data Structures<span id='DataStructures'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/emirpasic/gods'>gods</a></td><td>Data Structures</td><td>5854</td><td>632</td><td>316</td><td>18</td><td>View license</td></tr>
 <tr><td colspan='8'>gods - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/Workiva/go-datastructures'>go-datastructures</a></td><td>Data Structures</td><td>5005</td><td>560</td><td>669</td><td>36</td><td>Apache-2.0</td></tr>
@@ -605,7 +605,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Database<span id='Database'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/prometheus/prometheus'>prometheus</a></td><td>Database</td><td>24507</td><td>3455</td><td>5771</td><td>340</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>prometheus - Monitoring system and time series database.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/pingcap/tidb'>tidb</a></td><td>Database</td><td>19090</td><td>2767</td><td>8468</td><td>265</td><td>Apache-2.0</td></tr>
@@ -759,7 +759,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Database Drivers<span id='DatabaseDrivers'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/google/cayley'>cayley</a></td><td>Database Drivers</td><td>12553</td><td>1121</td><td>1316</td><td>74</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>cayley - Graph database with support for multiple backends.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/go-sql-driver/mysql'>go-sql-driver/mysql</a></td><td>Database Drivers</td><td>7726</td><td>1442</td><td>769</td><td>79</td><td>MPL-2.0</td></tr>
@@ -859,7 +859,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Date and Time<span id='DateandTime'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/jinzhu/now'>now</a></td><td>Date and Time</td><td>2106</td><td>124</td><td>62</td><td>8</td><td>MIT</td></tr>
 <tr><td colspan='8'>now - Now is a time toolkit for golang.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/araddon/dateparse'>dateparse</a></td><td>Date and Time</td><td>867</td><td>46</td><td>206</td><td>13</td><td>MIT</td></tr>
@@ -897,7 +897,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Distributed Systems<span id='DistributedSystems'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/coreos/etcd/tree/master/raft'>raft</a></td><td>Distributed Systems</td><td>25336</td><td>5146</td><td>0</td><td>0</td><td></td></tr>
 <tr><td colspan='8'>raft - Go implementation of the Raft consensus protocol, by CoreOS.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/hashicorp/raft'>raft</a></td><td>Distributed Systems</td><td>25336</td><td>5146</td><td>0</td><td>0</td><td></td></tr>
@@ -969,7 +969,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## E-Books<span id='E-Books'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/dariubs/GoBooks'>GoBooks</a></td><td>E-Books</td><td>6600</td><td>864</td><td>106</td><td>35</td><td></td></tr>
 <tr><td colspan='8'>GoBooks - A curated list of Go books.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/thewhitetulip/web-dev-golang-anti-textbook/'>Web Application with Go the Anti-Textbook</a></td><td>E-Books</td><td>2289</td><td>207</td><td>290</td><td>30</td><td></td></tr>
@@ -981,7 +981,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Editor Plugins<span id='EditorPlugins'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/Microsoft/vscode-go'>vscode-go</a></td><td>Editor Plugins</td><td>4940</td><td>568</td><td>1553</td><td>207</td><td>View license</td></tr>
 <tr><td colspan='8'>vscode-go - Extension for Visual Studio Code (VS Code) which provides support for the Go language.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/nsf/gocode'>gocode</a></td><td>Editor Plugins</td><td>4698</td><td>628</td><td>785</td><td>66</td><td>MIT</td></tr>
@@ -1011,7 +1011,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Email<span id='Email'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/mailhog/MailHog'>MailHog</a></td><td>Email</td><td>4931</td><td>321</td><td>278</td><td>21</td><td>MIT</td></tr>
 <tr><td colspan='8'>MailHog - Email and SMTP testing with web and API interface.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/go-gomail/gomail/'>Gomail</a></td><td>Email</td><td>2276</td><td>307</td><td>90</td><td>7</td><td>MIT</td></tr>
@@ -1041,7 +1041,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Embeddable Scripting Languages<span id='EmbeddableScriptingLanguages'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/robertkrimen/otto'>otto</a></td><td>Embeddable Scripting Languages</td><td>4609</td><td>407</td><td>657</td><td>37</td><td>MIT</td></tr>
 <tr><td colspan='8'>otto - JavaScript interpreter written in Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/yuin/gopher-lua'>gopher-lua</a></td><td>Embeddable Scripting Languages</td><td>2867</td><td>299</td><td>289</td><td>29</td><td>MIT</td></tr>
@@ -1081,7 +1081,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Error Handling<span id='ErrorHandling'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/pkg/errors'>errors</a></td><td>Error Handling</td><td>4630</td><td>312</td><td>152</td><td>37</td><td>BSD-2-Clause</td></tr>
 <tr><td colspan='8'>errors - Package that provides simple error handling primitives.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/hashicorp/go-multierror'>go-multierror</a></td><td>Error Handling</td><td>702</td><td>44</td><td>35</td><td>9</td><td>MPL-2.0</td></tr>
@@ -1099,7 +1099,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Files<span id='Files'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/spf13/afero'>afero</a></td><td>Files</td><td>2146</td><td>218</td><td>218</td><td>32</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>afero - FileSystem Abstraction System for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/hhrutter/pdfcpu'>pdfcpu</a></td><td>Files</td><td>894</td><td>59</td><td>172</td><td>4</td><td>Apache-2.0</td></tr>
@@ -1129,7 +1129,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Financial<span id='Financial'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/shopspring/decimal'>decimal</a></td><td>Financial</td><td>1516</td><td>228</td><td>116</td><td>33</td><td>View license</td></tr>
 <tr><td colspan='8'>decimal - Arbitrary-precision fixed-point decimal numbers.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/rhymond/go-money'>go-money</a></td><td>Financial</td><td>595</td><td>37</td><td>92</td><td>9</td><td>MIT</td></tr>
@@ -1157,7 +1157,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Forms<span id='Forms'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/justinas/nosurf'>nosurf</a></td><td>Forms</td><td>953</td><td>71</td><td>133</td><td>14</td><td>MIT</td></tr>
 <tr><td colspan='8'>nosurf - CSRF protection middleware for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/mholt/binding'>binding</a></td><td>Forms</td><td>748</td><td>68</td><td>90</td><td>8</td><td>MIT</td></tr>
@@ -1179,7 +1179,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Functional<span id='Functional'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/tobyhede/go-underscore'>go-underscore</a></td><td>Functional</td><td>1053</td><td>57</td><td>83</td><td>4</td><td>View license</td></tr>
 <tr><td colspan='8'>go-underscore - Useful collection of helpfully functional Go collection utilities.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/TeaEntityLab/fpGo'>fpGo</a></td><td>Functional</td><td>96</td><td>6</td><td>78</td><td>1</td><td>MIT</td></tr>
@@ -1191,7 +1191,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## GUI<span id='GUI'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/andlabs/ui'>ui</a></td><td>GUI</td><td>6776</td><td>593</td><td>2781</td><td>10</td><td>View license</td></tr>
 <tr><td colspan='8'>ui - Platform-native GUI library for Go. Cross platform.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/fyne-io/fyne'>fyne</a></td><td>GUI</td><td>5811</td><td>210</td><td>967</td><td>20</td><td>View license</td></tr>
@@ -1227,7 +1227,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Game Development<span id='GameDevelopment'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/name5566/leaf'>Leaf</a></td><td>Game Development</td><td>2951</td><td>823</td><td>327</td><td>7</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>Leaf - Lightweight game server framework.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/faiface/pixel'>Pixel</a></td><td>Game Development</td><td>2332</td><td>131</td><td>861</td><td>24</td><td>MIT</td></tr>
@@ -1271,7 +1271,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Generation and Generics<span id='GenerationandGenerics'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/ahmetalpbalkan/go-linq'>go-linq</a></td><td>Generation and Generics</td><td>1743</td><td>122</td><td>157</td><td>12</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>go-linq - .NET LINQ-like query methods for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/dave/jennifer'>jennifer</a></td><td>Generation and Generics</td><td>1228</td><td>54</td><td>217</td><td>6</td><td>MIT</td></tr>
@@ -1299,7 +1299,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Geographic<span id='Geographic'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/tidwall/tile38'>Tile38</a></td><td>Geographic</td><td>6217</td><td>334</td><td>763</td><td>29</td><td>MIT</td></tr>
 <tr><td colspan='8'>Tile38 - Geolocation DB with spatial index and realtime geofencing.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/golang/geo'>S2 geometry</a></td><td>Geographic</td><td>863</td><td>93</td><td>342</td><td>10</td><td>Apache-2.0</td></tr>
@@ -1319,7 +1319,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Go Compilers<span id='GoCompilers'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/gopherjs/gopherjs'>gopherjs</a></td><td>Go Compilers</td><td>8364</td><td>389</td><td>2070</td><td>44</td><td>BSD-2-Clause</td></tr>
 <tr><td colspan='8'>gopherjs - Compiler from Go to JavaScript.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/go-llvm/llgo'>llgo</a></td><td>Go Compilers</td><td>982</td><td>83</td><td>1001</td><td>12</td><td>View license</td></tr>
@@ -1335,7 +1335,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Go Generate Tools<span id='GoGenerateTools'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/cweill/gotests'>gotests</a></td><td>Go Generate Tools</td><td>2083</td><td>145</td><td>353</td><td>18</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>gotests - Generate Go tests from your source code.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/cheekybits/genny'>genny</a></td><td>Go Generate Tools</td><td>907</td><td>75</td><td>92</td><td>12</td><td>MIT</td></tr>
@@ -1353,7 +1353,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Go Tools<span id='GoTools'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/go-swagger/go-swagger'>go-swagger</a></td><td>Go Tools</td><td>3733</td><td>611</td><td>2430</td><td>175</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>go-swagger - Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/TrueFurby/go-callvis'>go-callvis</a></td><td>Go Tools</td><td>1893</td><td>110</td><td>134</td><td>6</td><td>MIT</td></tr>
@@ -1379,7 +1379,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Gophers<span id='Gophers'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/MariaLetta/free-gophers-pack'>Free Gophers Pack</a></td><td>Gophers</td><td>1449</td><td>67</td><td>8</td><td>1</td><td>View license</td></tr>
 <tr><td colspan='8'>Free Gophers Pack - Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/shalakhin/gophericons'>gophericons</a></td><td>Gophers</td><td>556</td><td>22</td><td>16</td><td>1</td><td>View license</td></tr>
@@ -1407,7 +1407,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Goroutines<span id='Goroutines'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/benmanns/goworker'>goworker</a></td><td>Goroutines</td><td>2199</td><td>195</td><td>136</td><td>14</td><td>View license</td></tr>
 <tr><td colspan='8'>goworker - goworker is a Go-based background worker.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/panjf2000/ants'>ants</a></td><td>Goroutines</td><td>1683</td><td>221</td><td>417</td><td>7</td><td>MIT</td></tr>
@@ -1463,7 +1463,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Images<span id='Images'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/h2non/imaginary'>imaginary</a></td><td>Images</td><td>2515</td><td>257</td><td>518</td><td>30</td><td>MIT</td></tr>
 <tr><td colspan='8'>imaginary - Fast and simple HTTP microservice for image resizing.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/fogleman/ln'>ln</a></td><td>Images</td><td>2429</td><td>84</td><td>83</td><td>3</td><td>MIT</td></tr>
@@ -1535,7 +1535,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## IoT (Internet of Things)<span id='IoT(InternetofThings)'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/tibcosoftware/flogo'>flogo</a></td><td>IoT (Internet of Things)</td><td>1076</td><td>155</td><td>395</td><td>33</td><td>BSD-3-Clause</td></tr>
 <tr><td colspan='8'>flogo - Project Flogo is an Open Source Framework for IoT Edge Apps & Integration.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/paypal/gatt'>gatt</a></td><td>IoT (Internet of Things)</td><td>801</td><td>205</td><td>104</td><td>15</td><td>BSD-3-Clause</td></tr>
@@ -1561,7 +1561,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## JSON<span id='JSON'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/tidwall/gjson'>GJSON</a></td><td>JSON</td><td>4538</td><td>294</td><td>160</td><td>12</td><td>MIT</td></tr>
 <tr><td colspan='8'>GJSON - Get a JSON value with one line of code.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/ChimeraCoder/gojson'>gojson</a></td><td>JSON</td><td>2003</td><td>135</td><td>105</td><td>12</td><td>View license</td></tr>
@@ -1593,7 +1593,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Job Scheduler<span id='JobScheduler'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/roylee0704/gron'>gron</a></td><td>Job Scheduler</td><td>616</td><td>30</td><td>122</td><td>1</td><td>MIT</td></tr>
 <tr><td colspan='8'>gron - Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/bamzi/jobrunner'>JobRunner</a></td><td>Job Scheduler</td><td>555</td><td>41</td><td>16</td><td>2</td><td>MIT</td></tr>
@@ -1613,7 +1613,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Logging<span id='Logging'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/Sirupsen/logrus'>logrus</a></td><td>Logging</td><td>11193</td><td>1335</td><td>1035</td><td>211</td><td>MIT</td></tr>
 <tr><td colspan='8'>logrus - Structured logger for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/uber-go/zap'>zap</a></td><td>Logging</td><td>7038</td><td>529</td><td>391</td><td>51</td><td>View license</td></tr>
@@ -1701,7 +1701,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Machine Learning<span id='MachineLearning'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/sjwhitworth/golearn'>GoLearn</a></td><td>Machine Learning</td><td>6551</td><td>896</td><td>497</td><td>46</td><td>MIT</td></tr>
 <tr><td colspan='8'>GoLearn - General Machine Learning library for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/chewxy/gorgonia'>gorgonia</a></td><td>Machine Learning</td><td>2616</td><td>248</td><td>602</td><td>25</td><td>View license</td></tr>
@@ -1773,7 +1773,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Messaging<span id='Messaging'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/Shopify/sarama'>sarama</a></td><td>Messaging</td><td>4361</td><td>793</td><td>2116</td><td>134</td><td>MIT</td></tr>
 <tr><td colspan='8'>sarama - Go library for Apache Kafka.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/centrifugal/centrifugo'>Centrifugo</a></td><td>Messaging</td><td>3585</td><td>317</td><td>995</td><td>17</td><td>MIT</td></tr>
@@ -1859,7 +1859,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Microsoft Office<span id='MicrosoftOffice'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/360EntSecGroup-Skylar/excelize'>excelize</a></td><td>Microsoft Office</td><td>4091</td><td>436</td><td>400</td><td>51</td><td>BSD-3-Clause</td></tr>
 <tr><td colspan='8'>excelize - Golang library for reading and writing Microsoft Excel™ (XLSX) files.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/tealeg/xlsx'>xlsx</a></td><td>Microsoft Office</td><td>56</td><td>7</td><td>202</td><td>2</td><td>MIT</td></tr>
@@ -1875,7 +1875,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Miscellaneous<span id='Miscellaneous'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/golang-standards/project-layout'>golang-standards/project-layout</a></td><td>Miscellaneous</td><td>7972</td><td>734</td><td>54</td><td>6</td><td>View license</td></tr>
 <tr><td colspan='8'>golang-standards/project-layout - Set of common historical and emerging project layout patterns in the Go ecosystem.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/shirou/gopsutil'>gopsutil</a></td><td>Miscellaneous</td><td>3739</td><td>708</td><td>1331</td><td>144</td><td>View license</td></tr>
@@ -1995,7 +1995,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Natural Language Processing<span id='NaturalLanguageProcessing'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/jdkato/prose'>prose</a></td><td>Natural Language Processing</td><td>2010</td><td>95</td><td>212</td><td>6</td><td>MIT</td></tr>
 <tr><td colspan='8'>prose - Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/nicksnyder/go-i18n/'>go-i18n</a></td><td>Natural Language Processing</td><td>1033</td><td>120</td><td>315</td><td>31</td><td>MIT</td></tr>
@@ -2069,7 +2069,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Networking<span id='Networking'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/xtaci/kcptun'>kcptun</a></td><td>Networking</td><td>10412</td><td>2043</td><td>227</td><td>7</td><td>MIT</td></tr>
 <tr><td colspan='8'>kcptun - Extremely simple & fast udp tunnel based on KCP protocol.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/valyala/fasthttp'>fasthttp</a></td><td>Networking</td><td>8885</td><td>791</td><td>1155</td><td>60</td><td>MIT</td></tr>
@@ -2191,7 +2191,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## ORM<span id='ORM'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/astaxie/beego/tree/master/orm'>beego orm</a></td><td>ORM</td><td>20758</td><td>4216</td><td>0</td><td>0</td><td></td></tr>
 <tr><td colspan='8'>beego orm - Powerful orm framework for go. Support: pq/mysql/sqlite3.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/jinzhu/gorm'>GORM</a></td><td>ORM</td><td>13882</td><td>1565</td><td>1471</td><td>187</td><td>MIT</td></tr>
@@ -2231,7 +2231,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## OpenGL<span id='OpenGL'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/go-gl/glfw'>glfw</a></td><td>OpenGL</td><td>702</td><td>90</td><td>291</td><td>24</td><td>BSD-3-Clause</td></tr>
 <tr><td colspan='8'>glfw - Go bindings for GLFW 3.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/go-gl/gl'>gl</a></td><td>OpenGL</td><td>626</td><td>43</td><td>82</td><td>12</td><td>MIT</td></tr>
@@ -2247,7 +2247,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Package Management<span id='PackageManagement'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/golang/dep'>dep</a></td><td>Package Management</td><td>12280</td><td>1003</td><td>3318</td><td>179</td><td>View license</td></tr>
 <tr><td colspan='8'>dep - Go dependency tool.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/Masterminds/glide'>glide</a></td><td>Package Management</td><td>7699</td><td>513</td><td>1083</td><td>74</td><td>View license</td></tr>
@@ -2281,7 +2281,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Query Language<span id='QueryLanguage'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/graphql-go/graphql'>graphql-go</a></td><td>Query Language</td><td>4960</td><td>435</td><td>879</td><td>65</td><td>MIT</td></tr>
 <tr><td colspan='8'>graphql-go - Implementation of GraphQL for Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/tmc/graphql'>graphql</a></td><td>Query Language</td><td>2664</td><td>257</td><td>429</td><td>42</td><td>BSD-2-Clause</td></tr>
@@ -2301,7 +2301,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Resource Embedding<span id='ResourceEmbedding'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/rakyll/statik'>statik</a></td><td>Resource Embedding</td><td>1983</td><td>118</td><td>82</td><td>19</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>statik - Embeds static files into a Go executable.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/gobuffalo/packr'>packr</a></td><td>Resource Embedding</td><td>1959</td><td>98</td><td>285</td><td>34</td><td>MIT</td></tr>
@@ -2327,7 +2327,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Science and Data Analysis<span id='ScienceandDataAnalysis'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/gonum/gonum'>gonum</a></td><td>Science and Data Analysis</td><td>2784</td><td>211</td><td>5383</td><td>75</td><td>BSD-3-Clause</td></tr>
 <tr><td colspan='8'>gonum - Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/montanaflynn/stats'>stats</a></td><td>Science and Data Analysis</td><td>1319</td><td>90</td><td>211</td><td>17</td><td>MIT</td></tr>
@@ -2393,7 +2393,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Security<span id='Security'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/xenolf/lego'>lego</a></td><td>Security</td><td>3384</td><td>438</td><td>814</td><td>161</td><td>MIT</td></tr>
 <tr><td colspan='8'>lego - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).</td></tr>
 <tr><td>2</td><td><a href='https://github.com/Ullaakut/cameradar'>Cameradar</a></td><td>Security</td><td>1755</td><td>234</td><td>156</td><td>5</td><td>MIT</td></tr>
@@ -2435,7 +2435,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Serialization<span id='Serialization'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/json-iterator/go'>jsoniter</a></td><td>Serialization</td><td>5145</td><td>443</td><td>748</td><td>30</td><td>MIT</td></tr>
 <tr><td colspan='8'>jsoniter - High-performance 100% compatible drop-in replacement of "encoding/json".</td></tr>
 <tr><td>2</td><td><a href='https://github.com/golang/protobuf'>goprotobuf</a></td><td>Serialization</td><td>4739</td><td>978</td><td>654</td><td>79</td><td>BSD-3-Clause</td></tr>
@@ -2471,7 +2471,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Server Applications<span id='ServerApplications'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/coreos/etcd'>etcd</a></td><td>Server Applications</td><td>25336</td><td>5146</td><td>15203</td><td>498</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>etcd - Highly-available key value store for shared configuration and service discovery.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/mholt/caddy'>Caddy</a></td><td>Server Applications</td><td>22229</td><td>1754</td><td>2354</td><td>255</td><td>Apache-2.0</td></tr>
@@ -2505,7 +2505,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Software Packages<span id='SoftwarePackages'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/kubernetes/kubernetes'>kubernetes</a></td><td>Software Packages</td><td>53876</td><td>18656</td><td>79308</td><td>2153</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>kubernetes - Container Cluster Manager from Google.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/moby/moby'>Moby</a></td><td>Software Packages</td><td>53688</td><td>15489</td><td>36953</td><td>1816</td><td>Apache-2.0</td></tr>
@@ -2697,7 +2697,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Template Engines<span id='TemplateEngines'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/jung-kurt/gofpdf'>gofpdf</a></td><td>Template Engines</td><td>2938</td><td>267</td><td>478</td><td>46</td><td>MIT</td></tr>
 <tr><td colspan='8'>gofpdf - PDF document generator with high level support for text, drawing and images.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/flosch/pongo2'>pongo2</a></td><td>Template Engines</td><td>1458</td><td>144</td><td>469</td><td>30</td><td>MIT</td></tr>
@@ -2741,7 +2741,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Testing<span id='Testing'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/stretchr/testify'>Testify</a></td><td>Testing</td><td>7630</td><td>685</td><td>571</td><td>132</td><td>MIT</td></tr>
 <tr><td colspan='8'>Testify - Sacred extension to the standard go testing package.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/smartystreets/goconvey/'>GoConvey</a></td><td>Testing</td><td>4674</td><td>351</td><td>1072</td><td>69</td><td>View license</td></tr>
@@ -2859,7 +2859,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Text Processing<span id='TextProcessing'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/asciimoo/colly'>colly</a></td><td>Text Processing</td><td>7862</td><td>610</td><td>443</td><td>57</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>colly - Fast and Elegant Scraping Framework for Gophers.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/PuerkitoBio/goquery'>GoQuery</a></td><td>Text Processing</td><td>7313</td><td>619</td><td>276</td><td>24</td><td>BSD-3-Clause</td></tr>
@@ -2967,7 +2967,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Third-party APIs<span id='Third-partyAPIs'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/aws/aws-sdk-go'>aws-sdk-go</a></td><td>Third-party APIs</td><td>4810</td><td>1177</td><td>3616</td><td>188</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>aws-sdk-go - The official AWS SDK for the Go programming language.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/google/go-github'>github</a></td><td>Third-party APIs</td><td>4625</td><td>1066</td><td>989</td><td>260</td><td>BSD-3-Clause</td></tr>
@@ -3113,7 +3113,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## UUID<span id='UUID'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/oklog/ulid'>ulid</a></td><td>UUID</td><td>1637</td><td>59</td><td>106</td><td>11</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>ulid - Go implementation of ULID (Universally Unique Lexicographically Sortable Identifier).</td></tr>
 <tr><td>2</td><td><a href='https://github.com/agext/uuid'>uuid</a></td><td>UUID</td><td>536</td><td>40</td><td>225</td><td>31</td><td>MIT</td></tr>
@@ -3129,7 +3129,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Utilities<span id='Utilities'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/junegunn/fzf'>fzf</a></td><td>Utilities</td><td>22026</td><td>851</td><td>1610</td><td>102</td><td>MIT</td></tr>
 <tr><td colspan='8'>fzf - Command-line fuzzy finder written in Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/github/hub'>hub</a></td><td>Utilities</td><td>16355</td><td>1649</td><td>2934</td><td>187</td><td>MIT</td></tr>
@@ -3371,7 +3371,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Validation<span id='Validation'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/go-playground/validator'>validator</a></td><td>Validation</td><td>3189</td><td>276</td><td>740</td><td>52</td><td>MIT</td></tr>
 <tr><td colspan='8'>validator - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/go-ozzo/ozzo-validation'>ozzo-validation</a></td><td>Validation</td><td>988</td><td>67</td><td>61</td><td>13</td><td>MIT</td></tr>
@@ -3393,7 +3393,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Version Control<span id='VersionControl'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/src-d/go-git'>go-git</a></td><td>Version Control</td><td>4028</td><td>421</td><td>1477</td><td>108</td><td>Apache-2.0</td></tr>
 <tr><td colspan='8'>go-git - highly extensible Git implementation in pure Go.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/libgit2/git2go'>git2go</a></td><td>Version Control</td><td>1327</td><td>231</td><td>836</td><td>77</td><td>MIT</td></tr>
@@ -3411,7 +3411,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Video<span id='Video'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/giorgisio/goav'>goav</a></td><td>Video</td><td>728</td><td>146</td><td>53</td><td>4</td><td>MIT</td></tr>
 <tr><td colspan='8'>goav - Comphrensive Go bindings for FFmpeg.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/3d0c/gmf'>gmf</a></td><td>Video</td><td>506</td><td>107</td><td>220</td><td>24</td><td>MIT</td></tr>
@@ -3435,7 +3435,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Web Frameworks<span id='WebFrameworks'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/gin-gonic/gin'>Gin</a></td><td>Web Frameworks</td><td>28028</td><td>3234</td><td>1265</td><td>218</td><td>MIT</td></tr>
 <tr><td colspan='8'>Gin - Gin is a web framework written in Go! It features a martini-like API with much better performance, up to 40 times faster. If you need performance and good productivity.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/astaxie/beego'>Beego</a></td><td>Web Frameworks</td><td>20757</td><td>4216</td><td>3435</td><td>298</td><td>View license</td></tr>
@@ -3595,7 +3595,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Websites<span id='Websites'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/golang/go/wiki/Projects'>Go Projects</a></td><td>Websites</td><td>59294</td><td>8196</td><td>0</td><td>0</td><td></td></tr>
 <tr><td colspan='8'>Go Projects - List of projects on the Go community wiki.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/astaxie/build-web-application-with-golang'>Build web application with Golang</a></td><td>Websites</td><td>30541</td><td>8449</td><td>5080</td><td>329</td><td>BSD-3-Clause</td></tr>
@@ -3625,7 +3625,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## Windows<span id='Windows'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/go-ole/go-ole'>go-ole</a></td><td>Windows</td><td>534</td><td>95</td><td>339</td><td>22</td><td>MIT</td></tr>
 <tr><td colspan='8'>go-ole - Win32 OLE implementation for golang.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/gonutz/d3d9'>d3d9</a></td><td>Windows</td><td>86</td><td>4</td><td>81</td><td>1</td><td>MIT</td></tr>
@@ -3637,7 +3637,7 @@ The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome pr
 [back](#Outline)
 
 ## XML<span id='XML'>
-<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Start</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
+<table><tr><th>No.</th><th>Name</th><th>Category</th><th>Star</th><th>Fork</th><th>Commits</th><th>Contributors</th><th>License</th></tr>
 <tr><td>1</td><td><a href='https://github.com/miku/zek'>zek</a></td><td>XML</td><td>216</td><td>14</td><td>189</td><td>2</td><td>GPL-3.0</td></tr>
 <tr><td colspan='8'>zek - Generate a Go struct from XML.</td></tr>
 <tr><td>2</td><td><a href='https://github.com/antchfx/xquery'>xquery</a></td><td>XML</td><td>145</td><td>24</td><td>70</td><td>3</td><td>MIT</td></tr>
