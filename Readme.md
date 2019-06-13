@@ -1,5 +1,7 @@
 # agos
- Awesome go projects sorter.  Collect Github projects (collected by [Awesome go](https://awesome-go.com/))information and sorted by star.
+Awesome go projects sorter.  Collect Github projects (collected by [Awesome go](https://github.com/avelino/awesome-go))information and sorted by star.
+
+The [Awesome go](https://github.com/avelino/awesome-go) project is an awesome project for gopher, which collects and organizes a variety of useful projects. However, choose which project needs to consider the start, fork, commits and contributors of the project. So I created this project and collected the start, fork and other indicators of the github project mentioned in the awesome go project.
 
 # Awesome go
 - [Audio and Music](#AudioandMusic)
